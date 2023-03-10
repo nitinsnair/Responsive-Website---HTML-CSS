@@ -2,9 +2,9 @@
 
 This project was created **without** using the auto complete option or Emmet. This was to get familiar with pure HTML concepts.
 
-<p>**Key learnings:** HTML is a markup language, used to define, arrange and structure the content and layout of a page. The most basic unit of any HTML code is called an Element. An element is made up of 3 parts - Opening Tag, Content and Closing Tag. </p>
+**Key learnings:** HTML is a markup language, used to define, arrange and structure the content and layout of a page. The most basic unit of any HTML code is called an Element. An element is made up of 3 parts - Opening Tag, Content and Closing Tag. </
 
-<p>One exception is the img (Image) tag. 'Img' doesnt have a closing tag since it doesnt have any content in between. So, instead we use something called an attribute.</p>
+One exception is the img (Image) tag. 'Img' doesnt have a closing tag since it doesnt have any content in between. So, instead we use something called an attribute.
 
 An attribute is a piece of data that provides additional information to the element in which we are using it, and as a result governs its behaviour.
 
